@@ -1,10 +1,6 @@
 #Game FUNDA Project by:
 '''
-1- Yashaswini T
-2- Varun H S
-3- Udai K C
-4- Shivam Mittal
-5- Sourav Roy
+ Varun H S
 '''
 import random
 import emoji
